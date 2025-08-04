@@ -44,5 +44,5 @@ app.get("/url/:shortId", async (req, res) => {
   res.redirect(entry.redirectURL);
 });
 
-app.listen(PORT, () => console.log(`Server Started at PORT:${PORT}`));
+app.listen(PORT, () => console.log(`Server Started at http://localhost:${PORT}`));
 //Please note that this code is for educational purposes and may require additional error handling and security measures for production use.

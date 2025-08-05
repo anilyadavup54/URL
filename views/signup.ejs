@@ -29,6 +29,24 @@ form {
   gap: 16px;
 }
 
+a[href="/login"] {
+  display: inline-block;
+  padding: 10px;
+  background: #e0e0e0;
+  color: #0078d4;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 8px;
+  transition: background 0.2s;
+}
+
+a[href="/login"]:hover {
+  background: #c7e0f4;
+  color: #005fa3;
+}
+
 label {
   font-weight: 500;
   margin-bottom: 4px;
@@ -74,6 +92,7 @@ button[type="submit"]:hover {
       <input type="text" required name="password" />
 
       <button type="submit">Signup</button>
+      <a href="/login">Login</a>
     </form>
   </body>
 </html>

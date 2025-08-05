@@ -15,6 +15,24 @@ h1 {
   color: #333;
 }
 
+a[href="/signup"] {
+  display: inline-block;
+  padding: 10px;
+  background: #e0e0e0;
+  color: #0078d4;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 8px;
+  transition: background 0.2s;
+}
+
+a[href="/signup"]:hover {
+  background: #c7e0f4;
+  color: #005fa3;
+}
+
 form {
   max-width: 350px;
   margin: 40px auto;
@@ -69,6 +87,7 @@ button[type="submit"]:hover {
       <input type="text" required name="password" />
 
       <button type="submit">Login</button>
+      <a href="/signup">Signup</a>
     </form>
   </body>
 </html>

@@ -1,4 +1,4 @@
-# URL Shortener
+# tinyURL
 
 A straightforward and efficient URL shortening service built with Node.js, Express, and EJS templating.
 

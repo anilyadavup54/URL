@@ -4,10 +4,11 @@ A straightforward and efficient URL shortening service built with Node.js, Expre
 
 ## Demo
 
-Deployed at: [url-henna.vercel.app](https://url-henna.vercel.app)
+Deployed at: [url-henna.vercel.app](https://url-)
 
-![Images](https://drive.google.com/file/d/1EOjKKc2U-K3r_P-p7Uc1LMfA7mdQXpiv/view?usp=drive_link)
-
+<img width="500" height="522" alt="Image" src="https://github.com/user-attachments/assets/bf8ff069-191a-4c23-87bc-4768b2e213b3" />
+<img width="532" height="553" src="https://github.com/user-attachments/assets/9fa4f2f0-6c41-402f-a312-0b4afed19fa0" />
+<img width="2118" height="964" alt="Image" src="https://github.com/user-attachments/assets/3a3d1fa5-5087-4dc9-8af7-29217d89c934" />
 
 ## Features
 
